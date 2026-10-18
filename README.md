@@ -51,7 +51,7 @@
 
 ## 🚀 发布与增长
 
-<!-- 待补充 -->
+- [AI 工具站外链目录合集](https://docs.google.com/spreadsheets/d/1HRmA66GsR8riwt3nQCuficS6-9e3EbI07ZGMzk9RTGQ/) - 可提交产品的目录站清单（Google 表格），由 理想和自由、小耳朵 分享
 
 ## ⚖️ 本地化与合规
 
