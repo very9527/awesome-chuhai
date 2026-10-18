@@ -64,7 +64,7 @@
 
 ## 📰 资讯与博客
 
-<!-- 待补充 -->
+- [AI 产品出海独立开发 · Andy 四海为家](https://andyroamer.com/articles/ai-development) - 出海独立开发系列文章
 
 ## 🔗 更多资源列表
 
