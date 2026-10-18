@@ -64,6 +64,8 @@
 
 ## 📰 资讯与博客
 
+> 注：微信公众号没有公开的主页链接，此类条目的链接指向其代表文章。
+
 - [AI 产品出海独立开发 · Andy 四海为家](https://andyroamer.com/articles/ai-development) - 出海独立开发系列文章
 
 ## 🔗 更多资源列表
