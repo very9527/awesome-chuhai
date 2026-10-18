@@ -28,6 +28,7 @@
 
 - [Semrush](https://www.semrush.com) - SEO、关键词与竞品流量分析工具
 - [Ahrefs](https://ahrefs.com) - 外链查询与关键词研究为主的 SEO 工具
+- [SimilarWeb](https://www.similarweb.com) - 查看竞品网站的流量规模与来源构成
 
 ## 🛠 开发与建站
 
