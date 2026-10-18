@@ -60,6 +60,7 @@
 ## 👥 社群与社区
 
 - [哥飞的朋友们 · Web.Cafe](https://new.web.cafe/r/DCWLXL) - 出海网站与 SEO 实战付费社群
+- [浅滩小虾米](https://qianshuixia.org) - AI 出海编程微信群，每日公开群聊精华日报
 
 ## 📰 资讯与博客
 
