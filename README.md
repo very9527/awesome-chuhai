@@ -21,50 +21,43 @@
 
 ## 🧭 新手入门
 
-<!-- 待补充：出海路线图、入门指南、经验贴 -->
+<!-- 待补充 -->
 
 ## 💡 需求与市场调研
 
-- [Google Trends](https://trends.google.com) - 查询关键词在全球各地区的搜索热度趋势
-- [SimilarWeb](https://www.similarweb.com) - 查看竞品网站的流量规模与来源构成
+- [Semrush](https://www.semrush.com) - SEO、关键词与竞品流量分析工具
+- [Ahrefs](https://ahrefs.com) - 外链查询与关键词研究为主的 SEO 工具
 
 ## 🛠 开发与建站
 
-- [Vercel](https://vercel.com) - 前端/全栈项目一键部署，免费额度够起步
-- [Cloudflare](https://www.cloudflare.com) - 域名、CDN、Pages/Workers，免费额度慷慨
-- [Namecheap](https://www.namecheap.com) - 主流域名注册商，价格透明
-- [Supabase](https://supabase.com) - 开源 Firebase 替代：数据库、认证、存储一站式
+<!-- 待补充 -->
 
 ## 💳 支付与变现
 
 - [Stripe](https://stripe.com) - 全球主流收单，需要海外主体
-- [Paddle](https://www.paddle.com) - MoR 代售模式，帮你处理全球销售税
-- [Lemon Squeezy](https://www.lemonsqueezy.com) - MoR 收单，个人开发者友好（已被 Stripe 收购）
+- [Dodo Payments](https://dodopayments.com) - MoR 代售收单，无需海外公司即可全球收款
+- [PayPal 中国](https://www.paypal.cn) - PayPal 中国站，跨境收款与提现
+- [Waffo](https://www.waffo.ai) - 面向开发者的 MoR 收单平台，支持人民币结算
 
 ## 🚀 发布与增长
 
-- [Product Hunt](https://www.producthunt.com) - 海外新产品发布第一站
-- [Hacker News](https://news.ycombinator.com) - Show HN 是独立产品的经典曝光渠道
+<!-- 待补充 -->
 
 ## ⚖️ 本地化与合规
 
-- [i18next](https://www.i18next.com) - 主流国际化框架，生态成熟
-- [iubenda](https://www.iubenda.com) - 隐私政策/服务条款生成器，覆盖 GDPR
+<!-- 待补充 -->
 
 ## 👥 社群与社区
 
-- [Indie Hackers](https://www.indiehackers.com) - 英文独立开发者社区，大量盈利案例
-- [V2EX](https://www.v2ex.com) - 中文开发者社区，有出海相关节点和讨论
+- [哥飞的朋友们 · Web.Cafe](https://new.web.cafe/r/DCWLXL) - 出海网站与 SEO 实战付费社群
 
 ## 📰 资讯与博客
 
-- [Starter Story](https://www.starterstory.com) - 创始人访谈与产品复盘案例库
+<!-- 待补充 -->
 
 ## 🔗 更多资源列表
 
-- [awesome-indie](https://github.com/mezod/awesome-indie) - 英文独立开发者资源清单鼻祖
-- [free-for-dev](https://github.com/ripienaar/free-for-dev) - 有免费额度的开发者服务大全
-- [程序员出海工具指南](https://github.com/chengxuyuanchuhai/chuhai-tools-all-in-one) - 按出海流程整理的中文工具清单
+<!-- 待补充 -->
 
 ---
 
