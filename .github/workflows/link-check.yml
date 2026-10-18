@@ -1,0 +1,27 @@
+name: Link Check
+
+on:
+  pull_request:
+  schedule:
+    - cron: "0 2 * * 1" # 每周一检查死链
+  workflow_dispatch:
+
+permissions:
+  issues: write
+
+jobs:
+  lychee:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check links
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: >-
+            --no-progress
+            --accept 200,204,206,429
+            './**/*.md'
+          fail: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
