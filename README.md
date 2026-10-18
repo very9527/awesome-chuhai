@@ -72,5 +72,6 @@
 ---
 
 有值得收录的资源，欢迎提 Issue 推荐。
-
+<!-- 等有了 star 再启用：
 [![Star History Chart](https://api.star-history.com/svg?repos=very9527/awesome-chuhai&type=Date)](https://star-history.com/#very9527/awesome-chuhai&Date)
+-->
