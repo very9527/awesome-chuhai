@@ -12,6 +12,7 @@
 - [新手入门](#-新手入门)
 - [需求与市场调研](#-需求与市场调研)
 - [开发与建站](#-开发与建站)
+- [域名注册](#-域名注册)
 - [支付与变现](#-支付与变现)
 - [发布与增长](#-发布与增长)
 - [本地化与合规](#-本地化与合规)
@@ -30,7 +31,15 @@
 
 ## 🛠 开发与建站
 
-<!-- 待补充 -->
+- [Supabase](https://supabase.com) - 开源 Firebase 替代：数据库、认证、存储一站式
+- [Vercel](https://vercel.com) - 前端/全栈项目一键部署，免费额度够起步
+- [Cloudflare](https://www.cloudflare.com) - CDN、DNS、Pages/Workers，免费额度慷慨
+- [Railway](https://railway.com) - 全栈应用与数据库部署平台，按需付费
+
+## 🌐 域名注册
+
+- [Spaceship](https://www.spaceship.com) - Namecheap 旗下域名注册商，价格透明
+- [Porkbun](https://porkbun.com) - 低价域名注册商，附赠 WHOIS 隐私保护
 
 ## 💳 支付与变现
 
