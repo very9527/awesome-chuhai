@@ -70,6 +70,4 @@
 
 有值得收录的资源，欢迎提 Issue 推荐。
 
-<!-- 仓库推上 GitHub 后，把 YOURNAME 替换为你的用户名即可启用 Star History 图
-[![Star History Chart](https://api.star-history.com/svg?repos=YOURNAME/awesome-chuhai&type=Date)](https://star-history.com/#YOURNAME/awesome-chuhai&Date)
--->
+[![Star History Chart](https://api.star-history.com/svg?repos=very9527/awesome-chuhai&type=Date)](https://star-history.com/#very9527/awesome-chuhai&Date)
