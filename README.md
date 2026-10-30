@@ -2,7 +2,6 @@
 
 > 产品出海资源清单 —— 面向独立开发者与小团队，收录做 SaaS / 工具 / AI 产品出海全流程用到的工具、渠道、社群与资讯。
 
-[![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0--1.0-lightgrey.svg)](LICENSE)
 
 <!-- 条目格式：- [名称](链接) - 一句话描述（≤40 字，客观描述）；新条目加在对应分区末尾 -->
