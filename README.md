@@ -53,28 +53,14 @@
 
 - [AI 工具站外链目录合集](https://docs.google.com/spreadsheets/d/1HRmA66GsR8riwt3nQCuficS6-9e3EbI07ZGMzk9RTGQ/) - 可提交产品的目录站清单（Google 表格），由 理想和自由、小耳朵 分享
 
-## ⚖️ 本地化与合规
-
-<!-- 待补充 -->
-
 ## 👥 社群与社区
 
-- [哥飞的朋友们 · Web.Cafe](https://new.web.cafe/r/DCWLXL) - 出海网站与 SEO 实战付费社群
+- [哥飞的朋友们 · Web.Cafe](https://new.web.cafe/r/DCWLXL/g) - 出海网站与 SEO 实战付费社群
 - [浅滩小虾米](https://qianshuixia.org) - AI 出海编程微信群，每日公开群聊精华日报
-
-## 📰 资讯与博客
-
-> 注：微信公众号没有公开的主页链接，此类条目的链接指向其代表文章。
-
-- [AI 产品出海独立开发 · Andy 四海为家](https://andyroamer.com/articles/ai-development) - 出海独立开发系列文章
-
-## 🔗 更多资源列表
 
 <!-- 待补充 -->
 
 ---
 
 有值得收录的资源，欢迎提 Issue 推荐。
-<!-- 等有了 star 再启用：
-[![Star History Chart](https://api.star-history.com/svg?repos=very9527/awesome-chuhai&type=Date)](https://star-history.com/#very9527/awesome-chuhai&Date)
--->
+
